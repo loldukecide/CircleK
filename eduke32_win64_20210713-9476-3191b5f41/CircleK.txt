@@ -1,0 +1,47 @@
+Title                   : CircleK
+Date Completed          : 07/2021
+Filename                : CircleK.MAP
+Author                  : lol_dukecide
+Email Address           :
+Misc. Author Info       : This is my first map
+Other Levels            :
+
+Description             : Aliens have invaded the local CircleK. Duke needs to get rid of them so everyone can have a polar pop again!
+
+Additional Credits      :
+================================================================
+
+* Play Information *
+
+Single Player           : Yes
+Cooperative 2-8 Player	: Not implemented
+DukeMatch 2-8 Player    : Not implemented
+Difficulty Settings     : Not implemented
+Atomic Edition Required : No
+New Sound               : No
+New Music               : Yes
+New Art                 : Yes
+Modified CONs           : Yes
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : 1 Year 
+Editor(s) used          : Mapster32,Bafed,GIMP
+Known Bugs              :
+May Not Run With...     :
+
+Important Notes         : Hint: Don't step on the manhole covers near the gas pumps!
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.  
+
+You MAY distribute this MAP file through any electronic medium, so long as 
+you include this text file intact with no modifications.
+
+
+
+
